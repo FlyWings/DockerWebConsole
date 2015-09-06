@@ -14,12 +14,9 @@ ToDo:
 
 ### Build
 
-<code>
-#go build -o dockerwebconsole
-</code>
+    #go build -o dockerwebconsole
+
 
 ### Run
 
-<code>
-#dockerwebconsole
-</code>
+    #dockerwebconsole
