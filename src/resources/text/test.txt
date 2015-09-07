@@ -1,2 +1,0 @@
-export http_proxy="http://xIS16633:Junio2016@172.31.219.30:8080"
-export https_proxy="https://xIS16633:Junio2016@172.31.219.30:8080"

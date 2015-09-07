@@ -1,1 +1,0 @@
-Administra los contenedores de tus hosts con esta consola web basada en gotty.
